@@ -1,0 +1,3 @@
+[submodule "firmware"]
+	path = submodules/firmware
+	url = git@github.com:autosportlabs/RaceCapture-Pro_firmware.git
